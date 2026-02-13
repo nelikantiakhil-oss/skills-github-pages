@@ -1,4 +1,0 @@
----
-title: "JEKYLLBLOG"
-date: 2026-02-13
----
