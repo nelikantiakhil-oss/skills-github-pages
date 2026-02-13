@@ -1,4 +1,4 @@
 ---
-title: "jekyll-blog_posts"
+title: "JEKYLLBLOG"
 date: 2026-02-13
 ---
